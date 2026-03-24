@@ -1,1 +1,1 @@
-The Student Entry System is a Java based project using VS Code, MySQL, and JDBC. It enables users to add, view, update, and delete student records through the command line, showcasing database connectivity and CRUD operations without a graphical interface.
+The Student Entry System is a Java based project using IntelliJ IDEA, MySQL, and JDBC. It enables users to add, view, update, and delete student records through the command line, showcasing database connectivity and CRUD operations without a graphical interface.
